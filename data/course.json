@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "00e61dc9-6b24-4d18-cbef-83d8c029a699"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "How Culture Works",
+  "course_description": "This course introduces diverse meanings and uses of the concept of culture with historical and contemporary examples from scholarship and popular media around the globe. It includes first-hand observations, synthesized histories and ethnographies, quantitative representations, and visual and fictionalized accounts of human experiences. Students conduct empirical research on cultural differences through the systematic observation of human interaction, employ methods of interpretative analysis, and practice convincing others of the accuracy of their findings.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.01",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
